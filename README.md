@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Some Projects
+---
+Menu for pizzerias : made with HTML and CCS Bootstrap
+Link: https://menu-lovat-nine.vercel.app/
+Last Update: may-26-2024
