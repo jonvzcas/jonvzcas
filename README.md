@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ## Some Projects
 ---
-Menu for pizzerias : made with HTML and CCS Bootstrap
-
+1. Menu for pizzerias : made with HTML and CCS Bootstrap
 Link: https://menu-lovat-nine.vercel.app/
-
 Last Update: may-26-2024
